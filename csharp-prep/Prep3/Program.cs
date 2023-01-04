@@ -5,11 +5,11 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello Prep3 World!");
-         Console.WriteLine("What is the magic number? ");
+        Console.WriteLine("What is the magic number? ");
         int magicNumber = int.Parse(Console.ReadLine());
-        
+
         // To allow the computer to generate a Random number
-       // Random randomGenerator = new Random();
+        // Random randomGenerator = new Random();
         //int magicNumber = randomGenerator.Next(1, 101);
 
 
