@@ -6,6 +6,8 @@ class Program
     {
         Console.WriteLine("Hello Prep2 World!");
 
+        // How to calculate the grade percentage in C#
+
         Console.WriteLine("What is your grade percentage? ");
         string grade = Console.ReadLine();
         int percent = int.Parse(grade);
